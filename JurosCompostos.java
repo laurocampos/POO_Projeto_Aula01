@@ -50,6 +50,8 @@ public class JurosCompostos extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
+            out.println("<link rel="stylesheet" href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'>");
+
             out.println("<title>Servlet JurosCompostos</title>");            
             out.println("</head>");
             out.println("<body>");
